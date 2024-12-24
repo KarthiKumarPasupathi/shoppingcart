@@ -58,7 +58,7 @@ A simple Java-based shopping cart application designed to demonstrate object-ori
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/shopping-cart.git
+   git clone https://github.com/KarthiKumarPasupathi/shopping-cart.git
    ```
 2. Navigate to the project directory:
    ```bash
